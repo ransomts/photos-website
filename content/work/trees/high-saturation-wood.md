@@ -2,7 +2,7 @@
 weight: 5
 images:
   - /images/wood_modified.jpg
-title: pump up that contrast
+title: bjark
 multipleColumn: true
 date: 2023-9-5
 tags:
